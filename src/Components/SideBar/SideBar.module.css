@@ -1,0 +1,26 @@
+.sideContainer{
+    height: 30rem;
+    width: 25%;
+    border-right: 0.1rem solid #d0d0d3;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-bottom: 1rem;
+}
+
+.clearCompletedButton{
+    width: 90%;
+    background-color: red;
+    font-size: 1.1rem;
+    padding: 0.5rem;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 0.5rem;
+    opacity: 0.8;
+    margin: 1rem auto;
+}
+
+.clearCompletedButton:hover{
+    opacity: 1;
+}

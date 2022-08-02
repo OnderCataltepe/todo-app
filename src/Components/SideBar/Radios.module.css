@@ -1,0 +1,14 @@
+.radioDiv{
+    text-align: start;
+    font-size: 1.4rem;
+    padding-left: 1rem;
+}
+.radioDiv div{
+    display: flex;
+    align-items: flex-start;
+    margin-top: 1rem;
+}
+.radioDiv input{
+    margin-right: 0.5rem;
+    accent-color: #27272C;
+}
