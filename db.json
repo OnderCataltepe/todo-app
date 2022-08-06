@@ -1,15 +1,25 @@
 {
-  "todos": [],
+  "todos": [
+    {
+      "id": "IShpib9fABW8a3LxPbDQI",
+      "title": "do something",
+      "category": "No Category",
+      "completed": false,
+      "name": "todos"
+    },
+    {
+      "id": "q6YTOL3e0-S4oNgKW9D8g",
+      "title": "do something else",
+      "category": "No Category",
+      "completed": true,
+      "name": "todos"
+    }
+  ],
   "category": [
     {
       "name": "category",
-      "title": "JavaScript",
-      "id": 1
-    },
-    {
-      "name": "category",
       "title": "No Category",
-      "id": 2
+      "id": 1
     }
   ]
 }
