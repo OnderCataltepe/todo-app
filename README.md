@@ -2,7 +2,7 @@
 
 Todo app built with React.js and Redux. It uses json-server as REST API.
 
-
+![alt text](https://github.com/OnderCataltepe/todo-app/blob/main/todo-picture.jpg)
 
 ## Features
 
